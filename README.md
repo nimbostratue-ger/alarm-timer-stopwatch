@@ -7,7 +7,7 @@ The app allows managing all timers in a single GUI interface and stores timers i
 
 ## Try the App
 You can try the app directly using the website:  
-[http://localhost:5173/alarm-timer-stopwatch/](http://localhost:5173/alarm-timer-stopwatch/)
+[https://nimbostratue-ger.github.io/alarm-timer-stopwatch/](https://nimbostratue-ger.github.io/alarm-timer-stopwatch/)
 
 ## Features
 
